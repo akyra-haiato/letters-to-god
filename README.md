@@ -1,5 +1,5 @@
 # Letters to God
-Letters to God - Indie Web-Game (Oficial Release Date: 09/01/2025)
+Letters to God - Indie Web-Game 
 
 ## The faith of the innocent is fragile, but honest - can you stand to watch it break?
 
