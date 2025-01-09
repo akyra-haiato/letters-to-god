@@ -17,5 +17,6 @@ Features:
 
 - Short, but filled with mistery. Be careful to make an informed decision, you can't go back now.
 
+To play this game, click on Letters to God on the Releases section, download the zip file and run index.html.
 
-## You can also play this game on itch.io! (Link will be added upon official release) 
+### You can also play this game on itch.io! https://akyra-haiato.itch.io/letters-to-god
